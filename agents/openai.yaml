@@ -1,0 +1,4 @@
+interface:
+  display_name: "CyberYuan 工业场景建模"
+  short_description: "统一比例与坐标，逐组件检索建模，再装配并核对工业设备与整厂空间关系"
+  default_prompt: "使用 $cyberyuan-industrial-blender 分析图纸与参考资料，统一比例和坐标，分类建立组件任务，逐组件完成检索、建模和验证，再核对总装空间关系并交付可复用资产。"
